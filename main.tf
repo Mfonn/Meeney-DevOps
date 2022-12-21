@@ -3,5 +3,6 @@ resource "github_repository" "meeney_devops" {
   description = "Meeney Tech"
 
   visibility = "public"
+  
 
 }
