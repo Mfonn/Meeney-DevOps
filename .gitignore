@@ -1,4 +1,12 @@
-.terraform/
-terraform.tfstate
-terraform.tfstate.backup
-terraform.tfvars
+# Local terraform directories
+**/.terraform/*
+
+# State files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+*.log
+
+# Sensitive data
+*.tfvars

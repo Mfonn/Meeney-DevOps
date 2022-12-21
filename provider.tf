@@ -9,6 +9,6 @@ terraform {
 
 # Configure the GitHub Provider
 provider "github" {
-    token = "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"
+    token = "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"
 }
 
